@@ -1,3 +1,1 @@
-"# Constantly improving" 
-" Please check back later"
-" https://www.linkedin.com/in/stefan-talica/ "
+"This current website is still under development https://www.linkedin.com/in/stefanta "
